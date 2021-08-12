@@ -1,4 +1,3 @@
-from logging import config
 from nornir import InitNornir
 from nornir_utils.plugins.functions import print_result
 from nornir_netmiko.tasks import netmiko_send_config, netmiko_send_command
