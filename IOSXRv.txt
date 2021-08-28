@@ -1,8 +1,10 @@
+hostname equipo 4
 interface gigabitEthernet0/0/0/1
 description config con Nornir
 no shutdown
 ipv4 address 192.168.141.1 255.255.255.0
 exit
+hostname equipo 4
 interface gigabitEthernet0/0/0/2
 description config con Nornir
 no shutdown
